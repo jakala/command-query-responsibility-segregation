@@ -1,4 +1,5 @@
 {
+    "name": "jakala/command-query-responsibility-segregation",
     "type": "library",
     "license": "proprietary",
     "minimum-stability": "stable",
